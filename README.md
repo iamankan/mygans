@@ -1,2 +1,2 @@
 # About
-This is a repository to practice and develop concepts regarding Genrative Adverserial Network (GAN). This repository may be cloned and used for research and learning purposes. This repository can also be used to develop ideas and try different things. I would create branch for each project I start. Don't merge anything to the 'main' branch, other than this readme file. I am currently a PhD student at the University of Kentucky and I wish to maintain this repository, as of now. I am creating this repository on May 12, 2023.
+This is a repository is for basic implementation of GAN, inspired from DCGAN and follows the documentation from [here][https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html].
