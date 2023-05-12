@@ -1,0 +1,2 @@
+# About
+This is a repository to practice and develop concepts regarding Genrative Adverserial Network (GAN). This repository may be cloned and used for research and learning purposes. This repository can also be used to develop ideas and try different things. I would create branch for each project I start.
